@@ -5,7 +5,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m a Master of Statistical Science student in Duke
 - 🌱 I’m currently learning machine learning theory, Python
-- 📫 How to reach me: yixiao.wang@duke.edu
+
 
