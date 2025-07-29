@@ -5,6 +5,6 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning machine learning theory, Python
+- 🌱 I’m currently learning machine learning theory
 
 
