@@ -5,6 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning machine learning theory
+- 🌱 Machine Learning
+- 🔵😈 Blue Devil
 
 
